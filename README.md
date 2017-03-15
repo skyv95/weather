@@ -1,1 +1,1 @@
-# weathet
+# weather
